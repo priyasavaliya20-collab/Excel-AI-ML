@@ -14,10 +14,15 @@ This project showcases a **Monthly Sales Performance Dashboard built in Microsof
 It helps analyze important business metrics such as:
 
 💰 Total Sales
+
 📦 Total Orders
+
 📈 Sales Trends
+
 🌍 Regional Sales Performance
+
 🛍️ Category-wise Sales Contribution
+
 💵 Total Profit
 
 The dashboard converts **raw sales data into meaningful insights** using **visual charts, KPI cards, and interactive filters**.
@@ -41,8 +46,11 @@ The dashboard converts **raw sales data into meaningful insights** using **visua
 The top section displays key performance indicators for quick business insights:
 
 💰 **Total Sales:** 195,217.76
+
 📦 **Total Orders:** 200
+
 📈 **Highest Sale:** 1,923.66
+
 💵 **Total Profit:** 68,287.01
 
 These KPIs provide a **quick overview of overall business performance.**
@@ -54,12 +62,15 @@ These KPIs provide a **quick overview of overall business performance.**
 The dashboard includes multiple charts for deeper analysis:
 
 📊 **Region Sales (Bar Chart)**
+
 Shows sales performance across regions such as **West, South, North, East, and Central**.
 
 📈 **Sales Trend (Line Chart)**
+
 Displays **monthly sales performance throughout the year**.
 
 🥧 **Category Sales (Pie Chart)**
+
 Shows the **distribution of sales across product categories** such as:
 
 * Books
@@ -75,9 +86,13 @@ Shows the **distribution of sales across product categories** such as:
 The dashboard highlights important insights such as:
 
 ✔ Strong overall sales and profitability
+
 ✔ Category-wise contribution to total sales
+
 ✔ Identification of highest-value transactions
+
 ✔ Regional sales performance comparison
+
 ✔ Monthly sales trend patterns
 
 ---
