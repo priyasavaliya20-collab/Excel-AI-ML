@@ -163,7 +163,7 @@ This dashboard can be used for:
 
 1️⃣ Download the repository
 
-2️⃣ Open `PR_2_SALE DASHBOARD.xlsx`
+2️⃣ Open `PR_2_SALE_DASHBOARD.xlsx`
 
 3️⃣ Enable editing if prompted
 
