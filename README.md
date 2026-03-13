@@ -33,7 +33,7 @@ The dashboard converts **raw sales data into meaningful insights** using **visua
 
 | File Name                   | Description                 |
 | --------------------------- | --------------------------- |
-| 📄 `sales_dashboard.xlsx`   | Main Excel dashboard file   |
+| 📄 `PR_2_SALE_DASHBOARD.xlsx`   | Main Excel dashboard file   |
 | 🖼️ `dashboard_preview.png` | Screenshot of the dashboard |
 | 📘 `README.md`              | Project documentation       |
 
@@ -102,7 +102,9 @@ The dashboard highlights important insights such as:
 Users can dynamically filter the dashboard using slicers:
 
 📦 **Product Category**
+
 👤 **Customer Name**
+
 🌍 **Region**
 
 These slicers allow users to **analyze specific segments instantly.**
@@ -130,9 +132,13 @@ Features used:
 # 📌 Key Insights Derived
 
 ✔ The **West region generates the highest sales**
+
 ✔ **Clothing and Electronics contribute a large share of revenue**
+
 ✔ **Sales peak around April and September**
+
 ✔ The business maintains **strong profitability with 68K+ profit**
+
 ✔ **High-value transactions reach up to 1,923.66**
 
 ---
@@ -142,9 +148,13 @@ Features used:
 This dashboard can be used for:
 
 📊 Sales Performance Monitoring
+
 📈 Business Intelligence Reporting
+
 📋 Executive Summary Reporting
+
 🛍️ Product Category Analysis
+
 🌍 Regional Performance Comparison
 
 ---
@@ -152,9 +162,13 @@ This dashboard can be used for:
 # 📈 How to Use
 
 1️⃣ Download the repository
-2️⃣ Open `sales_dashboard.xlsx`
+
+2️⃣ Open `PR_2_SALE DASHBOARD.xlsx`
+
 3️⃣ Enable editing if prompted
+
 4️⃣ Use slicers to filter data
+
 5️⃣ Analyze charts and insights
 
 ---
@@ -164,9 +178,13 @@ This dashboard can be used for:
 Potential improvements for the project:
 
 🔹 Power BI Version of the Dashboard
+
 🔹 Automated Data Refresh
+
 🔹 Python Data Analysis Integration
+
 🔹 Sales Forecasting Module
+
 🔹 Advanced Customer Segmentation
 
 ---
