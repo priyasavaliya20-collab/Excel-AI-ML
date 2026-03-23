@@ -154,10 +154,9 @@ The Excel file contains **8 dedicated sheets**, each serving a specific purpose:
 
 ## 👨‍💻 Author
 
-**Er. Milan Kathiriya**
-📍 India
-💼 Data Analysis | Excel Dashboard | Business Intelligence
-
+**Priya savaliya**
+📍 India :- Ahemadabad
+    
 ---
 
 ## ⭐ If You Like This Project
