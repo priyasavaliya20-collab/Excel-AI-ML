@@ -160,9 +160,8 @@ A dedicated **Key Insights** text panel embedded in the dashboard displaying:
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻Priya Savaliya
 
-**Priya Savaliya**
 📍 India — Ahmedabad
 
 ---
