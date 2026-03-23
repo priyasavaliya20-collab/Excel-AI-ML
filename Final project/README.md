@@ -152,9 +152,9 @@ The Excel file contains **8 dedicated sheets**, each serving a specific purpose:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Priya Savaliya
 
-**Priya savaliya**
+
 📍 India :- Ahemadabad
     
 ---
