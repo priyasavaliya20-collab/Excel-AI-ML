@@ -26,6 +26,7 @@ The dashboard enables smarter, data-driven decision-making using interactive vis
 | --------------------- | ---------------------------------------------------- |
 | 📄 FINAL_PROJECT.xlsx | Main Excel file containing full analysis & dashboard |
 | 📘 README.md          | Project documentation                                |
+| Dash board Preview     | image
 
 ---
 
@@ -107,6 +108,8 @@ Interactive dashboard with:
 * 📈 Trend Interpretation
 
 ---
+## 📷 Dashboard Preview
+![Data Intalligence Dashboard](Dash board Preview.png)
 
 ## 🛠️ Tools & Techniques Used
 
@@ -119,11 +122,6 @@ Interactive dashboard with:
 * Data Storytelling
 
 ---
-## 📷 Dashboard Preview
-
-<p align="center">
-  <img src="dashboardpreview.png" alt="Sales Dashboard" width="900"/>
-</p>
 
 ## 📌 Key Insights Derived
 
