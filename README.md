@@ -122,7 +122,7 @@ Interactive dashboard with:
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard_preview.png" alt="Sales Dashboard" width="900"/>
+  <img src="dashboardpreview.png" alt="Sales Dashboard" width="900"/>
 </p>
 
 ## 📌 Key Insights Derived
